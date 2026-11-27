@@ -13,7 +13,7 @@ pensando todo esto de forma referente solamente obvio je
 
 https://www.hologramelectronics.com/pages/microcosm?srsltid=AYCX9vJwhxIysYoktWDtPmlwYKhQCAFjMjJxdILmCqIvRbfZcO_HHPX8
 
-![microcosm](./imagenes/MC_angle_KO.webp)
+![microcosm](./imagenes/mc_angle_ko.webp)
 
 https://teenage.engineering/products/op-1?srsltid=AYCX9vJ1jYg4Fb0B57MJDYmAsICvHim1CigCQPZDtxUTSa6pSiEjZ2OP
 
